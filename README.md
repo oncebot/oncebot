@@ -1,6 +1,6 @@
 # Hi, I'm Biraj 👋
 
-Engineering Manager • Lead Frontend Engineer • 2× YC Founding Team Member
+Engineering Manager • Lead Frontend Engineer • 2× Y Combinator Founding Team Member
 
 For more than 12 years, I've been building SaaS products with startups. Over the years, I've worked as an Engineering Manager, Staff Engineer, Tech Lead, and Full Stack Engineer, helping take products from idea to production.
 
