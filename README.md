@@ -53,7 +53,7 @@ I enjoy building products, solving product problems, and creating thoughtful exp
 
 - Built an OAuth 2.0 Authorization Server enabling customers to connect Coursedog's MCP through Claude or other AI tools with their own credentials instead of shared service accounts.
 - Led the engineering foundation of a self-service CSV import platform, cutting manual engineering effort by 80%+.
-- Replaced a costly custom PDF generation pipeline with a managed service, significantly cutting costs.
+- Replaced a costly custom PDF generation pipeline with a managed service, significantly cutting costs by 60%+.
 - Built Drag & Drop Page Designer with per-university custom theming options, serving Stanford, Duke, CUNY, and dozens of other universities.
 - Rebuilt the public Catalog experience to a 95 Lighthouse score (from 35) via SSR and performance optimization, and led its WCAG accessibility compliance.
 
