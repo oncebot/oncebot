@@ -97,7 +97,7 @@ Lead Frontend Developer
 
 
 
-### [Tidily.io](http://Tidily.io)
+### Tidily.io
 
 Founder
 
